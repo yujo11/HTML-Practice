@@ -26,7 +26,7 @@ class App {
 
     this.ctx.clearRect(0, 0, this.stageWidth, this.stageHeight);
 
-    this.ctx.fillStyle = '#cddb49';
+    this.ctx.fillStyle = '#6fedcb';
     this.ctx.beginPath();
 
     this.ctx.arc(this.stageWidth / 2, this.stageHeight / 2, 300, 0, 2 * Math.PI);
